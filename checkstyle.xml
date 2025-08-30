@@ -88,8 +88,8 @@
         <module name="SimplifyBooleanExpression"/>
         <module name="SimplifyBooleanReturn"/>
 
-        <!-- Checks for class design                         -->
-        <!-- See http://checkstyle.sf.net/config_design.html -->
+        <!-- Checks for class finder                         -->
+        <!-- See http://checkstyle.sf.net/config_finder.html -->
         <!--<module name="DesignForExtension"/>-->
         <!--<module name="FinalClass"/>-->
         <!--<module name="HideUtilityClassConstructor"/>-->
